@@ -82,4 +82,27 @@
     <string name="gravity_drag">Coté de la poignée de glissement</string>
     <string name="dialog_pick_iconpack_title">Choisissez le pack d\'icônes</string>
     <string name="default_iconpack_title">Icônes par défaut</string>
+    <string name="icon_packs_title">Packs d\'icônes</string>
+    <string name="no_iconpacks_summary">Pas de packs d\'icônes installés</string>
+    <string name="icon_pack_title">Pack d\'icônes</string>
+    <string name="icon_pack_summary">Utiliser l\'icône d\'un pack pour une application</string>
+    <string name="category_speed_switcher_title">Changer rapide</string>
+    <string name="speed_switcher_enable_summary">Un appui long sur la poignée pour activer</string>
+    <string name="speed_switcher_enable_title">Activer</string>
+    <string name="back">Retour</string>
+    <string name="back_help">Retour</string>
+    <string name="kill_current">Fermer les en cours</string>
+    <string name="kill_current_help">Fermer l\'application en cours</string>
+    <string name="speed_switch_color_summary">Bleu - applis récentes. Vert - favoris. Rouge - actions</string>
+    <string name="speed_switch_color">Niveau des couleurs d\'arrière plan</string>
+    <string name="speed_switch_limit_summary">Limite de zone pour le changement de niveau</string>
+    <string name="speed_switch_limit">Zone de changement de niveau</string>
+    <string name="speed_switch_button_title">Boutons</string>
+    <string name="speed_switch_button_summary">Configurer les boutons d\'actions dans la vue de changement rapide</string>
+    <string name="speed_switch_items_summary">Nombre d\'éléments maximum par niveau</string>
+    <string name="speed_switch_item">Limite d\'éléments par niveau</string>
+    <string name="sc_quick_switcher_title">Changement rapide</string>
+    <string name="sc_quick_switcher_body">\nBouger vers le bas ou le haut pour changer de niveaux.\n\nBouger de gauche à droite pour basculer entre les éléments de niveau.</string>
+    <string name="sc_quick_switcher_empty_body">\nAucune application récente ou favorite.\n\nBouger vers le bas ou le haut pour changer de niveaux.\n\nBouger de gauche à droite pour basculer entre les éléments de niveau.</string>
+
 </resources>
