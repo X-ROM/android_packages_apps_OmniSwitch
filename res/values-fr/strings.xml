@@ -86,12 +86,12 @@
     <string name="no_iconpacks_summary">Pas de packs d\'icônes installés</string>
     <string name="icon_pack_title">Pack d\'icônes</string>
     <string name="icon_pack_summary">Utiliser l\'icône d\'un pack pour une application</string>
-    <string name="category_speed_switcher_title">Changer rapide</string>
+    <string name="category_speed_switcher_title">Changement rapide</string>
     <string name="speed_switcher_enable_summary">Un appui long sur la poignée pour activer</string>
     <string name="speed_switcher_enable_title">Activer</string>
     <string name="back">Retour</string>
     <string name="back_help">Retour</string>
-    <string name="kill_current">Fermer les en cours</string>
+    <string name="kill_current">Fermer les applications en cours</string>
     <string name="kill_current_help">Fermer l\'application en cours</string>
     <string name="speed_switch_color_summary">Bleu - applis récentes. Vert - favoris. Rouge - actions</string>
     <string name="speed_switch_color">Niveau des couleurs d\'arrière plan</string>
